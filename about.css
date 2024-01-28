@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+ul {
+    list-style: none;
+}
+
+.head {
+    background-color: #4CAAB9;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+}
+
+#nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+
+
+#icon {
+   color: rgb(53, 52, 52);
+}
+#icon:hover {
+    color: rgb(0, 0, 0);
+}
+
+
+
+#about {
+    margin-left: 500px;
+    padding-right: 35px;
+}
+#about:hover {
+    color: rgb(195, 195, 195);
+}
+
+
+
+#project {
+    padding-right: 35px;
+}
+#project:hover {
+    color: rgb(195, 195, 195);
+}
+
+
+
+#info:hover {
+    color: rgb(195, 195, 195);
+}
+
+
+img {
+    width: 120px;
+    border-radius: 3px;
+    margin-left: 1030px;
+    margin-top: 170px;
+    box-shadow: 15px 12px 10px rgb(0, 0, 0);
+}
+
+
+
+article{
+    background-color: rgb(213, 220, 227);
+    width: 1070px;
+    height: 350px;
+    margin-top: 137px;
+    margin-left: 100px;
+    border-radius:8px;
+    box-shadow: 15px 15px 10px rgb(172, 172, 172);
+}
+
+article h1 {
+    padding-top: 55px;
+    padding-left: 15px;
+    text-align: center;
+}
+
+pre {
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+
